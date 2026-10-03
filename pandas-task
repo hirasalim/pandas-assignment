@@ -1,0 +1,23 @@
+pandas task
+
+- What Pandas is
+- What a DataFrame is
+- How to import Pandas
+- How to create a DataFrame
+- How to read CSV files
+- `head()` and `tail()`
+- `shape` - `columns`
+- `dtypes` - `info()`
+- `describe()` - Selecting columns
+- `loc , - `iloc`
+- Filtering
+- Adding columns
+- Updating values
+- `drop()`
+- Missing values
+- Duplicate values
+- Sorting
+- Aggregation functions
+- `groupby()`
+- `concat()`
+- `merge()`
